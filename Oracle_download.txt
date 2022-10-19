@@ -1,0 +1,22 @@
+Oracle Server Program : Produc - Oracle database - Download - Oracle Database Express Edition
+
+Oracle Client Program : Application development - Oracle SQL Developer - Download SQL Developer 
+
+*CMD 실행
+sqlplus sys as sysdba
+
+alter session set "_ORACLE_SCRIPT"=true;  //sys계정에게 완전한 관리자 권한 부여
+
+경로 + 파일명 //sql파일에 저장된 명령 실행
+
+show user //현재 사용자 확인
+
+
+*Oracel 클라이언트 실행
+
+Oracle 접속 우클릭 - 새접속 - Name ,사용자 이름 비밀번호(오라클서버 설치 시 비밀번호
+포트 - 1521
+
+show user
+
+SELECT 
