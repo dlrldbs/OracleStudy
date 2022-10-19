@@ -20,3 +20,7 @@ Oracle 접속 우클릭 - 새접속 - Name ,사용자 이름 비밀번호(오라
 show user
 
 SELECT 
+
+INSERT, UPDATE, DELETE 
+
+명령은 대문자 사용.
